@@ -1,0 +1,18 @@
+Group,Count,Category,Long Description,Short Description
+'A' Codes,704,"Transportation Services Including Ambulance, Medical & Surgical Supplies","Ambulance service, outside state per mile, transport (medicaid only)",Outdide state ambulance service
+'B' Codes,50,Enteral And Parenteral Therapy,"Hemostatic agent, gastrointestinal, topical",Enter feed supkit syr by day
+'C' Codes,431,Temporary Codes For Use with Outpatient Prospective Payment System,Cellular therapy,"Hemostatic agent, gi, topic"
+'E' Codes,610,Durable Medical Equipment,Administration of influenza virus vaccine,Cane adjust/fixed with tip
+'G' Codes,1893,Procedures / Professional Services (Temporary Codes),Alcohol and/or drug assessment,	Admin influenza virus vac
+'H' Codes,89,Alcohol and Drug Abuse Treatment Services / Rehab Services,"Injection, tetracycline, up to 250 mg",Alcohol and/or drug assess
+'J' Codes,888,"Drugs Administered Other Than Oral Method, Chemotherapy Drugs",	Standard wheelchair,Tetracyclin injection
+'K' Codes,172,Durable Medical Equipment For Medicare Administrative Contractors,"Cervical, semi-rigid, adjustable (plastic collar)",Standard wheelchair
+'L' Codes,904,"Orthotic And Prosthetic Procedures, Devices",Medical Services,Cervical semi-rigid adjustab
+'M' Codes,138,Medical Services,Cellular therapy,Cellular therapy
+'P' Codes,58,Pathology And Laboratory Services,"Cephalin floculation, blood",Cephalin floculation test
+'Q' Codes,396,Miscellaneous Services (Temporary Codes),Cardiokymography,Cardiokymography
+'R' Codes,3,Diagnostic Radiology Services,"Transportation of portable ekg to facility or location, per patient",Transport portable ekg
+'S' Codes,529,Commercial Payers (Temporary Codes),"Exemestane, 25 mg","Exemestane, 25 mg"
+'T' Codes,112,Established For State Medical Agencies,Nursing assessment / evaluation,Nursing assessment/evaluatn
+'U' Codes,5,Coronavirus Diagnostic Panel,Cdc 2019 novel coronavirus (2019-ncov) real-time rt-pcr diagnostic panel,2019-ncov diagnostic p
+'V' Codes,211,"Vision, Hearing And Speech-Language Pathology Services","Frames, purchases",Vision svcs frames purchases
